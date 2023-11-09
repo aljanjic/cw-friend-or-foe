@@ -20,3 +20,9 @@ Note: keep the original order of the names in the output.
 - ✅ DONE
 
 ## Plans
+
+'["Ryan", "Kieran", "Mark"] should return ["Ryan", "Mark"]'
+'["Ryan", "Jimmy", "123", "4", "Cool Man"] should return ["Ryan"]'
+'["Jimm", "Cari", "aret", "truehdnviegkwgvke", "sixtyiscooooool"] should return ["Jimm", "Cari", "aret"]'
+
+'["Love", "Your", "Face", "1"] should return ["Love", "Your", "Face"]'
