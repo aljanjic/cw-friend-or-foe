@@ -1,7 +1,7 @@
 const friendOrFoe = require('./friendOrFoe');
 
 describe('friendOrFoe', () => {
-  it.only('["Ryan", "Kieran", "Mark"] should return ["Ryan", "Mark"]', () => {
+  it('["Ryan", "Kieran", "Mark"] should return ["Ryan", "Mark"]', () => {
     expect(friendOrFoe(["Ryan", "Kieran", "Mark"])).toStrictEqual(["Ryan", "Mark"]);
   });
 
