@@ -1,5 +1,5 @@
 function friendOrFoe() {
-  return 'friendOrFoe';
+  return ["Ryan", "Mark"];
 }
 
 module.exports = friendOrFoe;
